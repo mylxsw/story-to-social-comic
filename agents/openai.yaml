@@ -1,0 +1,4 @@
+interface:
+  display_name: "故事转社媒漫画"
+  short_description: "把故事、文章或观点改编成连续漫画与小红书、抖音发布素材"
+  default_prompt: "使用 $story-to-social-comic 把这篇内容改编为连续漫画，并先给出完整分镜方案。"
